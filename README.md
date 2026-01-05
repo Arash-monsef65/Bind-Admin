@@ -20,7 +20,5 @@ A modern, web-based management console for **BIND9 DNS Server** developed in **G
 ## 🛠️ Installation
 To install the BIND Admin Panel, clone the repository and run the installation script:
 
-```bash
-git clone [https://github.com/your-username/bind-admin-panel.git](https://github.com/your-username/bind-admin-panel.git)
-* **chmod +x bind-admin
-* **sudo ./bind-admin
+* **chmod +x bind-admin**
+* **sudo ./bind-admin**
